@@ -1,1 +1,1 @@
-# VoiceEnabledTradingAssistantDemo
+# VoiceEnabledTradingAssistantAndGestureRecognitionDemo
